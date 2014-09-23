@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"app/scripts/templates.js",
+				"test/mockData.js",
+				"app/styles/__x-*.scss",
+				"app/styles/main.css",
+				"app/lib/angular-ui-router.min.js",
+				"ng-wc.sublime-workspace",
+				"app/styles/busuu.css",
+				"app/icons/*"
+			],
+			"folder_exclude_patterns":
+			[
+				"app/icons",
+				"node_modules",
+				"app/bower_components",
+				".sass-cache",
+				".tmp",
+				"app/lib/ckeditor",
+				"dist",
+				"coverage",
+				"app/jade-output",
+				"app/lib/translations"
+			],
+			"path": "."
+		}
+	]
+}

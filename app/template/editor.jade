@@ -1,0 +1,13 @@
+
+.editor.container
+  .editor__title.page-header
+    h1(contenteditable="true")
+      {{ post.title }}
+  .editor__editable.lead(contenteditable="true")
+    | {{ post.content }}
+  .btn.pull-right.btn-default.btn-lg
+    span.glyphicon.glyphicon-ok
+    | &nbsp; Save
+  .btn.pull-left.btn-default
+    span.glyphicon(ng-click='triggerSynonyms()')
+    | &nbsp; Show synonyms

@@ -1,0 +1,126 @@
+@mixin border-radius($radius) {
+	-webkit-border-radius: $radius;
+	border-radius: $radius;
+}
+
+@mixin transfrom-style($style){
+	-webkit-transform-style: $style;
+	-moz-transform-style: $style;
+	transform-style: $style;
+}
+
+@mixin rotate($degrees){
+	-webkit-transform: rotate(#{$degrees}deg);
+  -moz-transform: rotate(#{$degrees}deg);
+  -ms-transform: rotate(#{$degrees}deg);
+  -o-transform: rotate(#{$degrees}deg);
+  transform: rotate(#{$degrees}deg);
+}
+
+@mixin placeholder-color($color){
+	::-webkit-input-placeholder {
+	   color: $color;
+	}
+	:-moz-placeholder { /* Firefox 18- */
+	   color: $color;  
+	}
+	::-moz-placeholder {  /* Firefox 19+ */
+	   color: $color;  
+	}
+	:-ms-input-placeholder {  
+	   color: $color;  
+	}
+}
+
+@mixin transform-origin($origin){
+	-webkit-transform-origin: $origin;
+	-moz-transform-origin: $origin;
+	-ms-transform-origin: $origin;
+	-o-transform-origin: $origin;
+	transform-origin: $origin;
+}
+
+@mixin my-greyscale {
+	filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333,0.3333,0.3333,0,0,0.3333,0.3333,0.3333,0,0,0.3333,0.3333,0.3333,0,0,0,0,0,1,0'/></filter></svg>#grayscale");
+  filter: gray; /* IE6-9 */
+  -webkit-filter: unquote("grayscale(100%)"); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* msie */
+
+}
+
+// same as above, without opacity
+@mixin my-greyscale-full-opacity {
+		filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333,0.3333,0.3333,0,0,0.3333,0.3333,0.3333,0,0,0.3333,0.3333,0.3333,0,0,0,0,0,1,0'/></filter></svg>#grayscale");
+	  filter: gray; /* IE6-9 */
+	  -webkit-filter: unquote("grayscale(100%)"); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+}
+
+
+@mixin css-triangle-up($size, $colour) {
+	border-right: $size solid rgba(0, 0, 0, 0);
+	border-bottom: $size solid $colour;
+	border-left: $size solid rgba(0, 0, 0, 0);
+	width: 0;
+	height: 0;
+}
+
+@mixin pseudo-sprite--plain($sprite) {
+	@include demo-sprite;
+	@extend #{$sprite};
+	content: '';
+	position: absolute;
+	z-index: 300;
+}
+
+@mixin pseudo-sprite($sprite) {
+	position: relative;
+	&:after{
+		@include demo-sprite;
+		@extend #{$sprite};
+		content: '';
+		position: absolute;
+		right: -11px;
+		top: 30%;
+		// margin-top: -11px;
+		z-index: 300;
+	}
+}
+
+@mixin abs($top, $left) {
+	position: absolute;
+	top: $top;
+	left: $left;
+}
+
+@mixin abstr($top, $right) {
+	position: absolute;
+	top: $top;
+	right: $right;
+}
+
+
+@mixin absolute-center {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+@mixin absolute-center--h {
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+}
+
+@mixin absolute-center--v {
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+}
+
+@mixin margin-bottom {
+  margin-bottom: 15px;
+}

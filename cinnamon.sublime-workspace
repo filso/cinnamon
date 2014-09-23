@@ -1,0 +1,3499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edita",
+				"editableElm"
+			],
+			[
+				"editable",
+				"editable"
+			],
+			[
+				"edit",
+				"editableElm"
+			],
+			[
+				"edi",
+				"editableElm"
+			],
+			[
+				"timeline",
+				"timelineNavigator"
+			],
+			[
+				"get",
+				"gotoCurrentCourses"
+			],
+			[
+				"getCurrent",
+				"getCurrentComponent"
+			],
+			[
+				"getCur",
+				"getCurrentComponentId"
+			],
+			[
+				"transla",
+				"translationMap"
+			],
+			[
+				"$http",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"dd",
+				"ddescribeIItCheck"
+			],
+			[
+				"first",
+				"firstEntityIndex"
+			],
+			[
+				"busuu",
+				"busuuModal"
+			],
+			[
+				"act",
+				"currentActivity"
+			],
+			[
+				"init",
+				"initExercise"
+			],
+			[
+				"back",
+				"backendHacks"
+			],
+			[
+				"finished",
+				"finishedText"
+			],
+			[
+				"solving",
+				"solvingText"
+			],
+			[
+				"reset",
+				"resetPosition"
+			],
+			[
+				"droppab",
+				"droppable2"
+			],
+			[
+				"ONS",
+				"ON_SUCCESSFUL_DROP"
+			],
+			[
+				"on",
+				"onSuccessfulDrop"
+			],
+			[
+				"jq",
+				"jqOptions"
+			],
+			[
+				"fil",
+				"filteredResults"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"completed",
+				"completedCount"
+			],
+			[
+				"compl",
+				"completedCount"
+			],
+			[
+				"results",
+				"resultsText"
+			],
+			[
+				"progre",
+				"_progressMap_"
+			],
+			[
+				"user",
+				"userHasAccess"
+			],
+			[
+				"interfa",
+				"interfaceLanguages"
+			],
+			[
+				"garden",
+				"gardenVisible"
+			],
+			[
+				"inter",
+				"interfaceLanguageChanged"
+			],
+			[
+				"embed",
+				"embedGarden"
+			],
+			[
+				"answer",
+				"answerIndex"
+			],
+			[
+				"corre",
+				"correctAnswers"
+			],
+			[
+				"rating",
+				"ratingAsVote"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"entity",
+				"entityClick"
+			],
+			[
+				"calcul",
+				"calculatedSteps"
+			],
+			[
+				"entities",
+				"entitiesLength"
+			],
+			[
+				"calcu",
+				"calculatedSteps"
+			],
+			[
+				"calculate",
+				"calculateSteps"
+			],
+			[
+				"timelin",
+				"timelineLocation"
+			],
+			[
+				"rewrite",
+				"rewriteMiddleware"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"my",
+				"myvocabData"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"data",
+				"pullData"
+			],
+			[
+				"pull",
+				"pullUserVocabulary"
+			],
+			[
+				"show",
+				"showSidepanel"
+			],
+			[
+				"current",
+				"currentQuestionIndex"
+			],
+			[
+				"progres",
+				"progressMap"
+			],
+			[
+				"cur",
+				"currentActivityTemplate"
+			],
+			[
+				"objec",
+				"objectives"
+			],
+			[
+				"transf",
+				"transformEndpoint"
+			],
+			[
+				"word",
+				"wordbeeStrings"
+			],
+			[
+				"string",
+				"stringKey"
+			],
+			[
+				"write",
+				"writeTranslationFile"
+			],
+			[
+				"int",
+				"resInterfaceId"
+			],
+			[
+				"export",
+				"exportArray"
+			],
+			[
+				"bs-po",
+				"ngDir_bs-pons	AngularJS"
+			],
+			[
+				"ctrl",
+				"ng-controller	AngularJS"
+			],
+			[
+				"subheader",
+				"subheaderOffset"
+			],
+			[
+				"found",
+				"foundCurrentCourse"
+			],
+			[
+				"activeCourse",
+				"activeCourseLevel"
+			],
+			[
+				"analytics",
+				"analyticsProvider"
+			],
+			[
+				"activi",
+				"activityIndex"
+			],
+			[
+				"sidep",
+				"sidepanels"
+			],
+			[
+				"script",
+				"scriptUrls"
+			],
+			[
+				"audio",
+				"audioplayer"
+			],
+			[
+				"sugg",
+				"suggestedNid"
+			],
+			[
+				"writing",
+				"writingFinished"
+			],
+			[
+				"problem",
+				"problemText"
+			],
+			[
+				"news",
+				"newsfeed_type"
+			],
+			[
+				"setup",
+				"setupReviewData"
+			],
+			[
+				"list2",
+				"list2indexes"
+			],
+			[
+				"prob",
+				"problemEntity"
+			],
+			[
+				"getCu",
+				"getCurrentActivity"
+			],
+			[
+				"subt",
+				"subtitles_2"
+			],
+			[
+				"subtitl",
+				"subtitles_1"
+			],
+			[
+				"bottom",
+				"bottomOffset"
+			],
+			[
+				"head",
+				"headersHeight"
+			],
+			[
+				"side",
+				"sidepanelHeight"
+			],
+			[
+				"regular",
+				"regularCourses"
+			],
+			[
+				"london",
+				"londonCentral"
+			],
+			[
+				"object",
+				"objectiveParams"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"learning",
+				"learningUnitsById"
+			],
+			[
+				"course",
+				"courseService"
+			],
+			[
+				"lui",
+				"luidToNewId"
+			],
+			[
+				"stub",
+				"stubSrcPath"
+			],
+			[
+				"stb",
+				"stubSrcPath"
+			],
+			[
+				"stu",
+				"stubSrcPath"
+			],
+			[
+				"bs-lig",
+				"bs-lightest-blue"
+			],
+			[
+				"probl",
+				"problemWord"
+			],
+			[
+				"activite",
+				"activity_index"
+			],
+			[
+				"currentAc",
+				"currentActivityIndex"
+			],
+			[
+				"activ",
+				"activities"
+			],
+			[
+				"dialog",
+				"dialogActivity"
+			],
+			[
+				"curren",
+				"currentCourseOnScroll"
+			],
+			[
+				"curre",
+				"currentActivityIndex"
+			],
+			[
+				"getCurre",
+				"getCurrentActivity"
+			],
+			[
+				"cu",
+				"currentActivityIndex"
+			],
+			[
+				"currentActi",
+				"getCurrentActivityIndex"
+			],
+			[
+				"is",
+				"userIsPremium"
+			],
+			[
+				"open",
+				"openUpgradeModal"
+			],
+			[
+				"pons",
+				"ponsDictLanguages"
+			],
+			[
+				"htt",
+				"httpBackend_"
+			],
+			[
+				"enti",
+				"entity_id"
+			],
+			[
+				"scro",
+				"scrollPosition"
+			],
+			[
+				"http",
+				"httpBackend"
+			],
+			[
+				"_",
+				"_berryService_"
+			],
+			[
+				"starting",
+				"startingActivityIndex"
+			],
+			[
+				"start",
+				"startingActivity"
+			],
+			[
+				"startingActivity",
+				"startingActivityIndex"
+			],
+			[
+				"ber",
+				"berryServiceSpy"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"review",
+				"reviewType820"
+			],
+			[
+				"correc",
+				"correctionsService"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"reload",
+				"reloadCurrent"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"load",
+				"loadCurrent"
+			],
+			[
+				"time",
+				"timelineUnitBackgrounds"
+			],
+			[
+				"activity",
+				"activityStatus"
+			],
+			[
+				"backg",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 1125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/_editor.scss",
+			"settings":
+			{
+				"buffer_size": 1205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/EditorCtrl.js",
+			"settings":
+			{
+				"buffer_size": 2540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/services/thesaurus.js",
+			"settings":
+			{
+				"buffer_size": 1211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 8654,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"set synt js",
+				"Set Syntax: JSON"
+			],
+			[
+				"set synt styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sett us",
+				"Preferences: Settings - User"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"set synta javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"quick co",
+				"Git: Quick Commit"
+			],
+			[
+				"quick c",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"commit ",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"stash pop",
+				"Git: Stash Pop"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"git commisel",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"git comi",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"prefeuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"comi",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"beauti",
+				"SassBeautify"
+			],
+			[
+				"staspop",
+				"Git: Stash Pop"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"settius",
+				"Preferences: Settings - User"
+			],
+			[
+				"settu",
+				"Preferences: Settings - User"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			],
+			[
+				"beaut",
+				"SassBeautify"
+			],
+			[
+				"sass bea",
+				"SassBeautify"
+			],
+			[
+				"sassbe",
+				"SassBeautify"
+			],
+			[
+				"sassbea",
+				"SassBeautify"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"sassBea",
+				"SassBeautify"
+			],
+			[
+				"SassBea",
+				"SassBeautify"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"stackove",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"stas",
+				"Git: Stash Changes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"app",
+				"Git: Stash Apply"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"stash ",
+				"Git: Stash Apply"
+			],
+			[
+				"git stas",
+				"Git: Stash Changes"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"compare ",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Take Snapshot"
+			],
+			[
+				"merge ",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"merge comp",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"merge rev",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"git commit",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"sublimerge comp",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"git comp",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"settingsuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"compare",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"subl compare",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"compare com",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"compa",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"git rev",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"angurebu",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgut",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"set syn jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"revision",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"synta java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"git",
+				"Git: Show Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git bam",
+				"Git: Blame"
+			],
+			[
+				"encodi",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"encodin",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"convertto",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"surepl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"pref s",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prefer",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"key",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"toggle min",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle map",
+				"View: Toggle Minimap"
+			],
+			[
+				"defaul",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key us",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 665.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/globals.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/template/editor.jade",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/routing.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/index.html",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/template/sidepanel.jade",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/main.scss",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/_variables.scss",
+		"/Users/filipsobczak/Desktop/code/cinnamon/package.json",
+		"/Users/filipsobczak/Desktop/code/cinnamon/gulpfile.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/app.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/cinnamon.sublime-project",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/_sidepanel.scss",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/_editor.scss",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/services/thesaurus.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/template/editor.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/filters.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/controllers/EditorCtrl.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/templates.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/controllers/SidepanelCtrl.js",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/main.css",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/styles/busuu.css",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/template/bsUserActions.jade",
+		"/Users/filipsobczak/Desktop/code/cinnamon/app/scripts/timeline.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/userProgressService.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/widgets/exercises.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/LuReviewResultsCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/PostWritingCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_CorrectionCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_UpgradeToPremiumFancy.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_UpgradeToPremiumReview.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/learning_units/bsLuNav.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/dashboard/ExercisesCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/LuVocabularyCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/PoolCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/views/timeline.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/dashboard/TimelineCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/timeline.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/courseService.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/timelineStrings.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/layout.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/timelineLocation.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/timelineNavigator.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/bsSubheader.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/sidepanels/bsSidepanel.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/bsPromobar.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/widgets/bsGoalsWidget.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/subheader/subheader.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/bsGoaleffort.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/bootstrap-sass/_includes/header.html",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/index.html",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/BsComponent.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/timelineLocation_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/busuuModal.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/BsComponentCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/BsComponent_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/searchUsers_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/HeaderCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/courseService_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/constants.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/Goal.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/statsService.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/bsFooter.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/User.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/User_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/events.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/values/EVENTS.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/sidepanels/bsSidepanelLeft.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/ExerciseCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/dashboard/TimelineCtrl_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/routing.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/ng-wc.sublime-project",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_reviews.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/stylus/busuu.styl",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/modal/Modal_Youtube.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/stylus/modifiers.styl",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_Promo.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/promotions.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/modal/Modal_Promo.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/stylus/organisms/modal.styl",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/promotions_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/test/mockDataHTTP.js",
+		"/Users/filipsobczak/Desktop/code/gulp-ddescribe-iit/tasks/lib/check-file.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_Youtube.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/app.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_dashboard.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_mixins.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/user_test/ReviewComposeCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/userTest.js",
+		"/Users/filipsobczak/Desktop/code/gulp-ddescribe-iit/package.json",
+		"/Users/filipsobczak/Desktop/code/gulp-linker/index.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/gulpfile.js",
+		"/Users/filipsobczak/Desktop/code/gulp-ddescribe-iit/tasks/ddescribe-iit.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/util.js",
+		"/Users/filipsobczak/Desktop/code/gulp-ddescribe-iit/gulpfile.js",
+		"/Users/filipsobczak/Desktop/code/gulp-ddescribe-iit/Gruntfile.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/backend.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_modals.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/grammarFeatures.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/vocabularyResults.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styleguide/index.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/splashDialog.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/bsYoutube.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/LuVocabularyCtrl_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_learningunit.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/lang.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_variables.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/widgets/goals.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/directives/bsProgressComponent.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/test/e2e/conf.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/test/e2e/basic.spec.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/test/e2e/chrome_only_conf.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/package.json",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/modal/Modal_Splash.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/test/e2e/timeline_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/utils/screenshots.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/bower.json",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/views/exercises.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/.gitignore",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/bsLuNav.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_sprites.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/styles/_footer.scss",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/LuGrammarCtrl_test.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/controllers/learning_units/LuGrammarCtrl.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/lu/meaning.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/stylus/atoms/masks.styl",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/leaderboard.jade",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/scripts/services/berryService.js",
+		"/Users/filipsobczak/Desktop/code/ng-wc/app/template/header.jade"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.html",
+			"",
+			"*_test.js",
+			"",
+			"*_test.js",
+			"_test.js",
+			"",
+			"*.jade",
+			"",
+			"*.js",
+			"",
+			"*_test.js",
+			"",
+			"*.js",
+			"",
+			"*.html",
+			"",
+			"*.jade",
+			"",
+			"*.html",
+			"*.scss",
+			"*.html",
+			".html",
+			"",
+			"*.html",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"\n",
+			"*.html",
+			"",
+			"*.js",
+			"",
+			"user.isCurrent()",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"lu",
+			"",
+			"LearningUnit.afterFetch",
+			"",
+			"learningUnit.markActivityDone",
+			"",
+			"$scope.entities",
+			"",
+			"learningUnit.data",
+			"",
+			"globals",
+			"*.js",
+			"",
+			"*.html",
+			"",
+			"globals",
+			"",
+			" ",
+			"",
+			"trs(",
+			"",
+			"/Users/filipsobczak/Desktop/angular.js/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"PROXY_ALTERV",
+			"BUSUU",
+			"test",
+			"lastHtml",
+			"bootstrap",
+			"lint",
+			"jshint",
+			"templates",
+			"jade",
+			"templates",
+			"params",
+			"1.3.0-beta.13",
+			"ui.bootstrap",
+			"gulp-tasks",
+			"ui-bootstrap",
+			"ui.bootstrap",
+			"sprites",
+			"1.3.16",
+			"1.2.16",
+			"busuuApp",
+			"busuuApp.filters",
+			"busuuApp",
+			"linker",
+			"deploy",
+			"timelineLocation.visib",
+			".setVisibleCourses",
+			"timelineNavigator.gotoCurrentCourse",
+			"gotoCurrentCourse",
+			"gotoCurrentCourses",
+			"setVisibleCourses",
+			"userIsPremium",
+			"user.isPremium",
+			"userIsPremium",
+			"objective === currentObjective",
+			"isCompletedEnough",
+			"objective.curren",
+			"objective.current",
+			"is-current",
+			".current",
+			"timelineLocation",
+			"_mashCourses",
+			".calculateProgress",
+			"layout.visible",
+			"this.visib",
+			"visible",
+			".calculateProgress",
+			"timelineStrings",
+			"getTitle",
+			"trackPromoClick",
+			"togglePanelState",
+			"sidebarPanels",
+			"$scope.user",
+			"promobar",
+			"processTimelineWidget",
+			"EVENTS.TIMELINE_LOADED",
+			"TIMELINE_LOADED",
+			"timelineNavigator.gotoCourse",
+			"timelineNavigator.goto",
+			"goto(",
+			"bs-subheader",
+			"hasStartedFirstCourse",
+			"origCoursesData",
+			"objective.widgets",
+			"removeWidgetsByType",
+			"timeline",
+			"timeline.js",
+			"timeline.init",
+			"courseService.onInit",
+			"courseService.init",
+			".init",
+			".refreshTimeline",
+			"goalList",
+			"userId",
+			"deferred",
+			"promise",
+			"userId",
+			"courseService",
+			"timelineNavigator",
+			"timelineLocation",
+			"timelineNavigator",
+			"coursesData",
+			"progressMap",
+			"goalList",
+			"userProgressService",
+			"courseService",
+			"courseService.getVisi",
+			"timelineLocation",
+			".byLevel",
+			"startCourseLevel",
+			"regular.byLevel",
+			".byLevel",
+			"tlObjectiveCounter",
+			"self",
+			"_mashCourses",
+			"this.",
+			"_mashCourses",
+			"courseSer",
+			"courseService",
+			"User",
+			", translationMap",
+			"mapTranslation",
+			"translationMap",
+			"mapTransl",
+			"getObjectiveId",
+			"getCourseId",
+			"objectiveId",
+			"setComponentStrings",
+			"timelineLocation",
+			"learningUnitsById",
+			"getComponent",
+			"courseService.getLearningUnit",
+			"groupPart",
+			"groupLevel",
+			"checkForCurren",
+			"current",
+			"courseService.setActive",
+			"events",
+			"events.list",
+			"current_user_loaded",
+			"constants",
+			"events",
+			"user_updated",
+			"events.",
+			"EVENTS",
+			"timelineLocation",
+			"constants.EVENTS.TIMELINE_LOADED",
+			"const.EVENTS.TIMELINE_LOADED"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"timelineNavigator.gotoCurrentCourses",
+			"constants.EVENTS.TIMELINE_LOADED",
+			"const.EVENTS.TIMELINE_LOADED",
+			"timelineLocation.setVisibleCourses",
+			"timelineLocation.setCourse\ntimelineLocation.setCourse\ntimelineLocation.setVisibleCourses",
+			"userProgressService.isCompleted",
+			"'1_1_1'",
+			"userTest.initTestList",
+			"",
+			" ",
+			"@include demo-sprite",
+			"ng-href",
+			"$old-bs-lightish-blue",
+			"$old-bs-dark-blue",
+			"$old-bs-dark-gray",
+			"$old-bs-gray",
+			"$old-bs-gray-blue",
+			"$old-bs-green",
+			"$old-bs-orange",
+			"$old-bs-light-blue",
+			"#999999",
+			"#0fab51",
+			"#2ecc71",
+			"#d93e30",
+			"#f85040",
+			"#b0ddfc",
+			"#074371",
+			"#f8f9fa",
+			"#ecf0f2",
+			"#b0ddfc",
+			"#dff2fe",
+			"#f8f9fa",
+			"#2d96dd",
+			"#0064af",
+			"userTest.initTest",
+			"",
+			"hasNewContent",
+			"close-btn-sprite",
+			"triangle-up",
+			"triangle-down",
+			"triangle-right",
+			"triangle-left",
+			"<trs>\\1</trs>",
+			" ",
+			">',\n",
+			"activeMyMistakes",
+			"progressData",
+			"userTest.review.",
+			"userTest.entities",
+			"user.isPremium()",
+			"user.isCurrent()",
+			"",
+			" trs=\"",
+			"trs",
+			" trs=\"",
+			" trs=",
+			"<trs>",
+			"trs(\\1",
+			"lu.markCurrentActivityDone();",
+			"lu.getCurrentActivity()",
+			"ng-",
+			"layout.setNextButtonCallback",
+			"layout.setCopy",
+			"progressDots.",
+			"trs",
+			"LearningUnit.onLoadCurrent",
+			"userTest",
+			"userTest.progress.review",
+			"userTest.progress.add",
+			"userTest",
+			"getActivityByType",
+			"lang.",
+			"lang.list",
+			"lang.learning()",
+			"lang.local",
+			"lang.learning",
+			"learningLang()",
+			"User.learningLang()",
+			"User.interfaceLang()",
+			"User.learningLang()",
+			"User",
+			"User.loadCurrent",
+			"userService.pullFriendRequests",
+			"userService.pullUserList",
+			"LearningUnit.afterFetch",
+			"learningUnit.markActivityDone",
+			"backend.buildGetEndpoint",
+			"backend.doGet",
+			"backend.doPost",
+			".overlay",
+			"instruction",
+			"activity-body",
+			"review.entities",
+			"activity-vocabulary",
+			"globals.learnLang",
+			"learningUnit.learnLang",
+			"globals.learnLang",
+			"global.learnLang",
+			"$scope.entities",
+			"learningUnit.data",
+			"globals",
+			"ng-click=\"toggleCollapse()\"",
+			"translate",
+			"globals",
+			"translate",
+			"busuutalk",
+			"{{ trs(\\1) }}",
+			" <trs>\\1</trs>",
+			" trs("
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower.json",
+					"settings":
+					{
+						"buffer_size": 1125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							],
+							[
+								97,
+								97
+							],
+							[
+								130,
+								130
+							],
+							[
+								548,
+								548
+							],
+							[
+								971,
+								971
+							],
+							[
+								1005,
+								1005
+							],
+							[
+								1086,
+								1086
+							],
+							[
+								1117,
+								1117
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/_editor.scss",
+					"settings":
+					{
+						"buffer_size": 1205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								918,
+								918
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 737.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/controllers/EditorCtrl.js",
+					"settings":
+					{
+						"buffer_size": 2540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1263,
+								1263
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 235.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/scripts/services/thesaurus.js",
+					"settings":
+					{
+						"buffer_size": 1211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								984,
+								984
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 8654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2362,
+								2362
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1086.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 350.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"glob",
+				"app/scripts/globals.js"
+			],
+			[
+				"global",
+				"app/scripts/globals.js"
+			],
+			[
+				"edit",
+				"app/template/editor.jade"
+			],
+			[
+				"editor",
+				"app/scripts/controllers/EditorCtrl.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"routi",
+				"app/scripts/routing.js"
+			],
+			[
+				"sidep",
+				"app/template/sidepanel.jade"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"editorc",
+				"app/scripts/controllers/EditorCtrl.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"edito",
+				"app/template/editor.jade"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"editorctr",
+				"app/scripts/controllers/EditorCtrl.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"app.js",
+				"app/scripts/app.js"
+			],
+			[
+				"timelin",
+				"app/scripts/timeline.js"
+			],
+			[
+				"timelinloc",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"userpro",
+				"app/scripts/services/userProgressService.js"
+			],
+			[
+				"timelinc",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"exercises",
+				"app/template/widgets/exercises.jade"
+			],
+			[
+				"exercisesctr",
+				"app/scripts/controllers/dashboard/ExercisesCtrl.js"
+			],
+			[
+				"timelinct",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"timelin.ja",
+				"app/template/views/timeline.jade"
+			],
+			[
+				"courses",
+				"app/scripts/services/courseService.js"
+			],
+			[
+				"timelinec",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"timelinlo",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"course",
+				"app/scripts/services/courseService.js"
+			],
+			[
+				"timeline",
+				"app/scripts/timeline.js"
+			],
+			[
+				"userprog",
+				"app/scripts/services/userProgressService.js"
+			],
+			[
+				"courseserv",
+				"app/scripts/services/courseService.js"
+			],
+			[
+				"layout",
+				"app/scripts/services/layout.js"
+			],
+			[
+				"timelinelo",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"bssubhe",
+				"app/scripts/directives/bsSubheader.js"
+			],
+			[
+				"timelinestr",
+				"app/scripts/services/timelineStrings.js"
+			],
+			[
+				"timeli",
+				"app/template/views/timeline.jade"
+			],
+			[
+				"timelct",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"timelinectr",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"bsheade",
+				"app/scripts/directives/bsSubheader.js"
+			],
+			[
+				"timelinenav",
+				"app/scripts/services/timelineNavigator.js"
+			],
+			[
+				"timelinav",
+				"app/scripts/services/timelineNavigator.js"
+			],
+			[
+				"subheader",
+				"app/template/subheader/subheader.jade"
+			],
+			[
+				"bshea",
+				"app/styles/bootstrap-sass/_includes/header.html"
+			],
+			[
+				"bsheader",
+				"app/scripts/directives/bsSubheader.js"
+			],
+			[
+				"timelineloc",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"courseser",
+				"app/scripts/services/courseService.js"
+			],
+			[
+				"bsgoalwi",
+				"app/scripts/directives/widgets/bsGoalsWidget.js"
+			],
+			[
+				"bsgoal",
+				"app/scripts/directives/bsGoaleffort.js"
+			],
+			[
+				"bscomponn",
+				"app/scripts/services/BsComponent.js"
+			],
+			[
+				"userproge",
+				"app/scripts/services/userProgressService.js"
+			],
+			[
+				"timelinestri",
+				"app/scripts/services/timelineStrings.js"
+			],
+			[
+				"bscomp_test",
+				"app/scripts/services/BsComponent_test.js"
+			],
+			[
+				"userprogre",
+				"app/scripts/services/userProgressService.js"
+			],
+			[
+				"timelinnav",
+				"app/scripts/services/timelineNavigator.js"
+			],
+			[
+				"constants",
+				"app/scripts/services/constants.js"
+			],
+			[
+				"statsser",
+				"app/scripts/services/statsService.js"
+			],
+			[
+				"goal",
+				"app/scripts/services/Goal.js"
+			],
+			[
+				"constant",
+				"app/scripts/services/constants.js"
+			],
+			[
+				"tinav",
+				"app/scripts/services/timelineNavigator.js"
+			],
+			[
+				"timloc",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"timelineloa",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"luvocab",
+				"app/scripts/controllers/learning_units/LuVocabularyCtrl.js"
+			],
+			[
+				"timelinctr",
+				"app/scripts/controllers/dashboard/TimelineCtrl_test.js"
+			],
+			[
+				"timelinloca",
+				"app/scripts/services/timelineLocation_test.js"
+			],
+			[
+				"timelineloca",
+				"app/scripts/services/timelineLocation.js"
+			],
+			[
+				"routing",
+				"app/scripts/routing.js"
+			],
+			[
+				"timelnav",
+				"app/scripts/services/timelineNavigator.js"
+			],
+			[
+				"user.js",
+				"app/scripts/services/User.js"
+			],
+			[
+				"stylus",
+				"app/stylus/busuu.styl"
+			],
+			[
+				"modal",
+				"app/stylus/organisms/modal.styl"
+			],
+			[
+				"modal_promo",
+				"app/template/modal/Modal_Promo.jade"
+			],
+			[
+				"promotion",
+				"app/scripts/services/promotions_test.js"
+			],
+			[
+				"busuumoda",
+				"app/scripts/services/busuuModal.js"
+			],
+			[
+				"busuumod",
+				"app/scripts/services/busuuModal.js"
+			],
+			[
+				"mockd",
+				"test/mockDataHTTP.js"
+			],
+			[
+				"timel",
+				"app/template/views/timeline.jade"
+			],
+			[
+				"promob",
+				"app/scripts/directives/bsPromobar.js"
+			],
+			[
+				"modal_",
+				"app/template/modal/Modal_Youtube.jade"
+			],
+			[
+				"busumoda",
+				"app/scripts/services/busuuModal.js"
+			],
+			[
+				"usertest",
+				"ng-wc/app/scripts/services/userTest.js"
+			],
+			[
+				"composectr",
+				"ng-wc/app/scripts/controllers/user_test/ReviewComposeCtrl.js"
+			],
+			[
+				"modalyoutu",
+				"ng-wc/app/scripts/controllers/modal/Modal_Youtube.js"
+			],
+			[
+				"util",
+				"ng-wc/app/scripts/services/util.js"
+			],
+			[
+				"user",
+				"ng-wc/app/scripts/services/User.js"
+			],
+			[
+				"grammfeat",
+				"app/template/grammarFeatures.jade"
+			],
+			[
+				"splas",
+				"app/template/splashDialog.jade"
+			],
+			[
+				"youtube",
+				"app/template/bsYoutube.jade"
+			],
+			[
+				"backe",
+				"app/scripts/services/backend.js"
+			],
+			[
+				"luvoca",
+				"app/scripts/controllers/learning_units/LuVocabularyCtrl_test.js"
+			],
+			[
+				"constan",
+				"app/scripts/services/constants.js"
+			],
+			[
+				"bslunav",
+				"app/scripts/directives/learning_units/bsLuNav.js"
+			],
+			[
+				"lang",
+				"app/scripts/services/lang.js"
+			],
+			[
+				"splash",
+				"app/template/splashDialog.jade"
+			],
+			[
+				"timelinect",
+				"app/scripts/controllers/dashboard/TimelineCtrl.js"
+			],
+			[
+				"basic.sp",
+				"test/e2e/basic.spec.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"chr",
+				"test/e2e/chromeOnlyConf.js"
+			],
+			[
+				"conf",
+				"test/e2e/conf.js"
+			],
+			[
+				"basic",
+				"test/e2e/basic.spec.js"
+			],
+			[
+				"bscompo",
+				"app/scripts/services/BsComponent.js"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"exercise",
+				"app/template/views/exercises.jade"
+			],
+			[
+				"bsluna",
+				"app/template/bsLuNav.jade"
+			],
+			[
+				"progresscomp",
+				"app/scripts/directives/bsProgressComponent.js"
+			],
+			[
+				"sprites",
+				"app/styles/_sprites.scss"
+			],
+			[
+				"bsprogresscomp",
+				"app/scripts/directives/bsProgressComponent.js"
+			],
+			[
+				"bscompone",
+				"app/scripts/services/BsComponent.js"
+			],
+			[
+				"lugram",
+				"app/scripts/controllers/learning_units/LuGrammarCtrl.js"
+			],
+			[
+				"bslu",
+				"app/template/bsLuNav.jade"
+			],
+			[
+				"back",
+				"app/scripts/services/backend.js"
+			],
+			[
+				"lugramc",
+				"app/scripts/controllers/learning_units/LuGrammarCtrl_test.js"
+			],
+			[
+				"meanin",
+				"app/template/lu/meaning.jade"
+			],
+			[
+				"bslun",
+				"app/template/bsLuNav.jade"
+			],
+			[
+				"grammar",
+				"app/scripts/controllers/learning_units/LuGrammarCtrl.js"
+			],
+			[
+				"berryse",
+				"app/scripts/services/berryService.js"
+			],
+			[
+				"header",
+				"app/template/header.jade"
+			],
+			[
+				"lugrammar",
+				"app/scripts/controllers/learning_units/LuGrammarCtrl.js"
+			],
+			[
+				"mean",
+				"app/template/lu/meaning.jade"
+			],
+			[
+				"backen",
+				"app/scripts/services/backend.js"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"masks",
+				"app/stylus/atoms/masks.styl"
+			],
+			[
+				"busuu",
+				"app/stylus/busuu.styl"
+			],
+			[
+				"busuu.sty",
+				"app/stylus/busuu.styl"
+			],
+			[
+				"shame",
+				"app/stylus/shame.styl"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

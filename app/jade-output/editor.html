@@ -1,0 +1,9 @@
+
+<div class="editor container">
+  <div class="editor__title page-header">
+    <h1 contenteditable="true">{{ post.title }}</h1>
+  </div>
+  <div contenteditable="true" class="editor__editable lead">{{ post.content }}</div>
+  <div class="btn pull-right btn-default btn-lg"><span class="glyphicon glyphicon-ok"></span>&nbsp; Save</div>
+  <div class="btn pull-left btn-default"><span ng-click="triggerSynonyms()" class="glyphicon"></span>&nbsp; Show synonyms</div>
+</div>
